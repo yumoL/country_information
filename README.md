@@ -12,4 +12,4 @@ sudo apt install -y nodejs
 Install all necessary packages with `npm install`
 
 ### Starting the project
-Use `npm start` to build and serve the project. The project will be served in port 3000.
+Use `npm run build` to build the project and `npm start` to serve it. The project will be served in port 3000.
